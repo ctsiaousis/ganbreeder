@@ -6,6 +6,9 @@ This code was made in a weekend and hasn't been cleaned up or documented yet. Th
 
 Pull request are more than welcome :)
 
+## Why fork?
+The original repo seems kinda out of date and several issues occure trying to buld tensorflow and tensorflow-hub from the source of the versions specified here. I will try to port the project to the current upstream versions. Most changes are going to occure in the ```gan_server``` directory. feel free to make a pull request, as I'm new to python and AI and gonna go slow on this one. =)
+
 ## How to use
 
 ### Prerequisites
